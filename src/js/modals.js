@@ -1,5 +1,5 @@
 import { getExerciseById, patchRating } from './api.js';
-import iconSprite from '../images/icons.svg';
+import iconSprite from '../img/icons.svg';
 
 const modalBackdrop = document.querySelector('#exercise-modal');
 const exercisesList = document.querySelector('.exercises-list'); 

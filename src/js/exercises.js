@@ -1,4 +1,4 @@
-import iconSprite from '../images/icons.svg';
+import iconSprite from '../img/icons.svg';
 
 export function createExerciseMarkup(exercises) {
   return exercises

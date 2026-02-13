@@ -1,5 +1,5 @@
 import { openModal } from './modals.js';
-import iconSprite from '../images/icons.svg';
+import iconSprite from '../img/icons.svg';
 
 const quoteText = document.querySelector('.quote-text');
 const quoteAuthor = document.querySelector('.quote-author');
